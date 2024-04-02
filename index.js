@@ -56,7 +56,7 @@
 // let day = +prompt(`Day`); // 2
 // let calc = 0;
 
-// function hisob() {
+// function dayCalc() {
 //     calc += ((year - 1970) * 365);
 
 //     if (day == 30) {
@@ -69,4 +69,4 @@
 //     return calc;
 // }
 
-// console.log(hisob());
+// console.log(dayCalc());
